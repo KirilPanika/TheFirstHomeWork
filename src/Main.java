@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 
         // The first homework "Variables"
-        // tetststststs
+
         byte b1 = 12;                   // 12 in decimal number system
         System.out.println(b1);
         System.out.println("");
